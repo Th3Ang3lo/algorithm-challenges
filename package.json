@@ -12,6 +12,7 @@
   "scripts": {
     "fibonacci": "nodemon src/fibonacci.js --ignore node_modules/**",
     "classifier": "nodemon src/classifier.js --ignore node_modules/**",
-    "cleaner": "nodemon src/cleaner.js --ignore node_modules/**"
+    "cleaner": "nodemon src/cleaner.js --ignore node_modules/**",
+    "expirityDate": "nodemon src/expirityDate.js --ignore node_modules/**"
   }
 }
