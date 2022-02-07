@@ -1,0 +1,12 @@
+{
+  "name": "desafio-algoritmos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fibonacci": "^1.6.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
